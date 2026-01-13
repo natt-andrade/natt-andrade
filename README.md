@@ -15,5 +15,5 @@ Estudante de **Ciência da Computação** na Universidade Federal de Sergipe (UF
 * **Web:** HTML5, CSS3, GitHub Pages.
 
 ### 📫 Como me encontrar
-* [LinkedIn](www.linkedin.com/in/natália-andrade)
+* [LinkedIn](https://www.linkedin.com/in/natália-andrade)
 * [Email](mailto:natalia.andrade@dcomp.ufs.br)
