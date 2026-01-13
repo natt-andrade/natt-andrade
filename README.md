@@ -3,13 +3,14 @@
 Estudante de **Ciência da Computação** na Universidade Federal de Sergipe (UFS) e membro da **Softeam** (Empresa Júnior de Computação).
 
 ### 🚀 Sobre mim
-* 🎓 Atualmente no 2º período (em transição para o 3º), focando em fundamentos sólidos de algoritmos e engenharia de software.
+* 🎓 Atualmente em transição para o 3º período, focando em construir uma base sólida em Desenvolvimento Full Stack e Engenharia de Software.
 * 💼 Atuo no setor financeiro da Softeam, onde desenvolvo habilidades de gestão, processos e trabalho em equipe.
-* 🎯 Meus interesses incluem Desenvolvimento Backend e Ciência de Dados.
+* 🎯 Meus interesses incluem Desenvolvimento Full Stack, Ciência de Dados e Inteligência Artificial.
 * 🌍 Inglês nível B2 (Conversação e leitura técnica).
 
 ### 💻 Tech Stack
-* **Linguagens:** Java (POO), C (Imperativa), JavaScript.
+* **Linguagens:** Java, C, JavaScript, SQL (Noções).
+* **Frameworks/Bibliotecas:** React (Iniciante) e Spring Boot.
 * **Ferramentas:** Git, GitHub, Git Flow, Conventional Commits.
 * **Web:** HTML5, CSS3, GitHub Pages.
 
