@@ -1,17 +1,14 @@
 # Olá, eu sou a Natália Andrade! 👋
 
-Estudante de **Ciência da Computação** na Universidade Federal de Sergipe (UFS) e membro da **Softeam** (Empresa Júnior de Computação).
+Estudante de Ciência da Computação na Universidade Federal de Sergipe (UFS) apaixonada por resolver problemas através do desenvolvimento de software e da automação.
 
 ### 🚀 Sobre mim
-* 🎓 Atualmente em transição para o 3º período, focando em construir uma base sólida em Desenvolvimento Full Stack e Engenharia de Software.
-* 💼 Atuo no setor financeiro da Softeam, onde desenvolvo habilidades de gestão, processos e trabalho em equipe.
-* 🎯 Meus interesses incluem Desenvolvimento Full Stack, Ciência de Dados e Inteligência Artificial.
-* 🌍 Inglês nível B2 (Conversação e leitura técnica).
+* 🎓 Atualmente no 3º período, foco os meus estudos em construir uma base sólida em Engenharia de Software e Desenvolvimento Full-Stack. Também tenho forte interesse em Engenharia de Dados. Como assessora do setor Administrativo Financeiro da SofTeam, aplico competências de gestão, organização e visão de negócio no ecossistema de uma Empresa Júnior.
 
 ### 💻 Tech Stack
-* **Linguagens:** Java, C, JavaScript, SQL (Noções).
-* **Frameworks/Bibliotecas:** React (Iniciante) e Spring Boot.
-* **Ferramentas:** Git, GitHub, Git Flow, Conventional Commits.
+* **Linguagens:** Python, Java, C, JavaScript, SQL (Noções).
+* **Frameworks/Bibliotecas:** React (Iniciante).
+* **Ferramentas:** Git, GitHub, Git Flow, Conventional Commits e Consumo de APIs REST.
 * **Web:** HTML5, CSS3, GitHub Pages.
 
 ### 📫 Como me encontrar
