@@ -1,16 +1,25 @@
-# Olá, eu sou Natália Andrade! 👋
+# Hi, I'm Natália Andrade! 👋
 
-Estudante de Ciência da Computação na Universidade Federal de Sergipe (UFS) apaixonada por resolver problemas através do desenvolvimento de software e da automação.
+Computer Science undergraduate at the **Federal University of Sergipe (UFS)** focused on building a solid foundation in **Software Engineering** and **Full-Stack Development**, alongside applied **Artificial Intelligence** research.
 
-### 🚀 Sobre mim
-* 🎓 Atualmente no 4º período, foco os meus estudos em construir uma base sólida em Engenharia de Software e Desenvolvimento Full-Stack. Também tenho forte interesse em Engenharia de Dados. Como assessora do setor Administrativo Financeiro da SofTeam, aplico competências de gestão, organização e visão de negócio.
+### Currently
 
-### 💻 Tech Stack
-* **Linguagens:** Python, Java, C, JavaScript, SQL (Noções).
-* **Frameworks/Bibliotecas:** React (Iniciante).
-* **Ferramentas:** Git, GitHub, Git Flow, Conventional Commits e Consumo de APIs REST.
-* **Web:** HTML5, CSS3, GitHub Pages.
+- **Research Fellow @ VHLab & Instituto Kunumi:** Researching Virtual Humans and Vision-Language Models (VLMs) at the Virtual Humans Simulation Laboratory.
+- **Advisor (Administrative-Financial) @ SofTeam:** Applying management, organization, and business operations at UFS's Computer Science Junior Enterprise.
+- **Advisor (Teaching) @ LAWD:** Contributing to educational initiatives and web development training at the Web Development Academic League.
 
-### 📫 Como me encontrar
-* [LinkedIn](https://www.linkedin.com/in/natália-andrade)
-* [Email](mailto:natalia.andrade@dcomp.ufs.br)
+### Technical Skills
+
+- **Languages:** Python, Java, C, JavaScript, SQL
+- **Frameworks & Libraries:** React
+- **Tools & Practices:** Git, GitHub, Git Flow, Conventional Commits, REST APIs
+- **Spoken Languages:** Portuguese (Native), English (B2 – Upper-Intermediate)
+
+---
+
+*Focused on writing reliable software, continuously strengthening my engineering fundamentals, and connecting scientific research with practical development.*
+
+### 📩 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/natália-andrade)
+- [Email](mailto:natalia.andrade@dcomp.ufs.br)
